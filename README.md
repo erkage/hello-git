@@ -1,1 +1,1 @@
-# hello-world
+# hello-git (formerly: hello-world)
